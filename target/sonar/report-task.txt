@@ -1,0 +1,6 @@
+projectKey=ImageMnt:ImageMnt
+serverUrl=http://localhost:9000
+serverVersion=7.9.3.33349
+dashboardUrl=http://localhost:9000/dashboard?id=ImageMnt%3AImageMnt
+ceTaskId=AXEstTZ3O2zFs9zUL2VP
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXEstTZ3O2zFs9zUL2VP
